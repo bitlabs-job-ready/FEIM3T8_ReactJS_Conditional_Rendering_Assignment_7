@@ -1,0 +1,6 @@
+Create a React component that displays a list of students and their grades. The component should have the following functionality: 
+•	Use conditional rendering with an if statement to display a message if the list of students is empty. 
+•	Use a switch statement to display a different message based on the student's grade (e.g. "Excellent" for A+, "Good" for A, "Needs improvement" for C or below). 
+•	Use a for loop to iterate through the list of students and display their name and grade. 
+•	Use the forEach method to add a class to each student's name based on their grade (e.g. "excellent" for A+, "good" for A, "needs-improvement" for C or below). 
+•	Use the map method to create an array of student objects with additional properties, such as "status" (e.g. "excellent", "good", "needs-improvement") and "passing" (true or false). 
